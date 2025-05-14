@@ -36,7 +36,7 @@ fun WelcomeView(
 ) {
     OnboardingScreen(Modifier.verticalScroll(rememberScrollState())) {
         Image(
-            painter = painterResource(id = R.drawable.app_icon_round),
+            painter = painterResource(id = R.drawable.gs5_logo),
             contentDescription = stringResource(
                 id = commonR.string.app_name
             ),
@@ -64,7 +64,7 @@ fun WelcomeView(
                     textDecoration = TextDecoration.Underline
                 )
             ) {
-                append(stringResource(id = commonR.string.learn_more))
+                //append(stringResource(id = commonR.string.learn_more))
             }
             pop()
         }

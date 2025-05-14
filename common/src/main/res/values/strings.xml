@@ -25,7 +25,7 @@
     <string name="allow">Allow</string>
     <string name="always_show_first_view_on_app_start">Always show first view on app start</string>
     <string name="always_show_first_view_on_app_start_summary">The first view of the default dashboard is shown as soon as the app is opened</string>
-    <string name="app_name">Home Assistant</string>
+    <string name="app_name">GS5 Systems</string>
     <string name="app_version_info">App version info</string>
     <string name="application_version">Application version</string>
     <string name="attempting_authentication">Authenticating…</string>
@@ -573,7 +573,7 @@
     <string name="select">Select</string>
     <string name="select_entity_to_display">Select entity to display</string>
     <string name="select_file">Select file</string>
-    <string name="select_instance">Select your Home Assistant server</string>
+    <string name="select_instance">Select your server</string>
     <string name="sensor_description_active_calories_burned">Get active calories burned from Health Connect</string>
     <string name="sensor_description_active_notification_count">Total count of active notifications that are visible to the user including silent, persistent and the Sensor Worker notifications. Attributes will include the contents of all notifications if the corresponding setting is enabled. It\'s enabled by default.</string>
     <string name="sensor_description_app_importance">If the app is in the foreground, background or any other state it can be</string>
@@ -994,8 +994,8 @@
     <string name="webview_error_SSL_NOTYETVALID">The Home Assistant certificate is not yet valid, please review the Home Assistant certificate or the connection settings and try again.</string>
     <string name="webview_error_SSL_UNTRUSTED">The Home Assistant certificate authority is not trusted, please review the Home Assistant certificate or the connection settings and try again.</string>
     <string name="webview_error">There was an error loading Home Assistant, please review the connection settings and try again. We will attempt to try another provided URL when you select Refresh.</string>
-    <string name="welcome_hass_desc">This app connects to your Home Assistant server and allows integrating data about you and your phone.\n\nHome Assistant is free and open source home automation software with a focus on local control and privacy.</string>
-    <string name="welcome_hass">Welcome to Home Assistant Companion!</string>
+    <string name="welcome_hass_desc"></string>
+    <string name="welcome_hass">Welcome to GS5 Systems</string>
     <string name="what_is_this_crash">Unable to load Home Assistant home page, do you have a browser installed?</string>
     <string name="widget_attribute_separator_label">Separator between attributes:</string>
     <string name="widget_background_type_label">Widget theme:</string>
